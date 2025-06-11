@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Posco11
-- 👀 I’m interested in Web developement, Software development, and to learn more
-- 🌱 I’m currently learning Information Communication Technology in SASTRA University
-- 📫 How to reach me: via mail, linkedin or insta account
+- 👀 I’m interested in Web developement, Software development, Data analysis and to learn more
+- 🌱 I’m currently learning Information Communication and Technology in SASTRA University
+- 📫 How to reach me: via mail, linkedin or instagram account
 - 😄 Pronouns: she/her
 
 <!---
